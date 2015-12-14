@@ -1,20 +1,19 @@
 {
-  "name": "express_error_handler",
-  "version": "0.0.5",
-  "description": "express error handler",
-  "main": "express_error_handler.js",
+  "name": "express-io-error-handler",
+  "version": "0.0.4",
+  "description": "express-io error handler",
+  "main": "express-io-error-handler.js",
   "scripts": {
     "test": "mocha"
   },
-  "homepage": "https://github.com/bughou-node/express_error_handler",
+  "homepage": "https://github.com/bughou-node/express-io-error-handler",
   "repository": {
     "type": "git",
-    "url": "git@github.com/bughou-node/express_error_handler.git"
+    "url": "git@github.com/bughou-node/express-io-error-handler.git"
   },
   "author": "bughou@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "node-env": ">0.0.1",
-    "error-trace": ">0.0.5"
+    "node_env": ">0.0.1"
   }
 }
